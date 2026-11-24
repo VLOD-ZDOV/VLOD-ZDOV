@@ -2,19 +2,19 @@
 <style>.m{font-family:'JetBrains Mono',Consolas,'DejaVu Sans Mono',monospace}.f{opacity:0;animation:in .6s ease-out forwards}@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}.g{transform-origin:left;transform:scaleX(0);animation:grow 1.2s ease-out .3s forwards}@keyframes grow{to{transform:scaleX(1)}}</style>
 <rect x=".5" y=".5" width="899" height="259" rx="16" fill="#0d1117" stroke="#30363d"/>
 <text x="32" y="44" class="m" font-size="18" font-weight="700" fill="#c9d1d9"><tspan fill="#7ee787">❯</tspan> git log --stat</text>
-<g class="f" style="animation-delay:0.00s"><rect x="32.0" y="64" width="157.6" height="78" rx="10" fill="#161b22" stroke="#30363d"/><text x="46.0" y="106" class="m" font-size="26" font-weight="800" fill="#7ee787">1,389</text><text x="46.0" y="128" class="m" font-size="11" fill="#8b949e">Commits</text></g>
-<g class="f" style="animation-delay:0.12s"><rect x="201.6" y="64" width="157.6" height="78" rx="10" fill="#161b22" stroke="#30363d"/><text x="215.6" y="106" class="m" font-size="26" font-weight="800" fill="#58a6ff">1,286</text><text x="215.6" y="128" class="m" font-size="11" fill="#8b949e">Contributions 2026</text></g>
-<g class="f" style="animation-delay:0.24s"><rect x="371.2" y="64" width="157.6" height="78" rx="10" fill="#161b22" stroke="#30363d"/><text x="385.2" y="106" class="m" font-size="26" font-weight="800" fill="#d2a8ff">1,488</text><text x="385.2" y="128" class="m" font-size="11" fill="#8b949e">Total contributions</text></g>
+<g class="f" style="animation-delay:0.00s"><rect x="32.0" y="64" width="157.6" height="78" rx="10" fill="#161b22" stroke="#30363d"/><text x="46.0" y="106" class="m" font-size="26" font-weight="800" fill="#7ee787">1,392</text><text x="46.0" y="128" class="m" font-size="11" fill="#8b949e">Commits</text></g>
+<g class="f" style="animation-delay:0.12s"><rect x="201.6" y="64" width="157.6" height="78" rx="10" fill="#161b22" stroke="#30363d"/><text x="215.6" y="106" class="m" font-size="26" font-weight="800" fill="#58a6ff">1,289</text><text x="215.6" y="128" class="m" font-size="11" fill="#8b949e">Contributions 2026</text></g>
+<g class="f" style="animation-delay:0.24s"><rect x="371.2" y="64" width="157.6" height="78" rx="10" fill="#161b22" stroke="#30363d"/><text x="385.2" y="106" class="m" font-size="26" font-weight="800" fill="#d2a8ff">1,491</text><text x="385.2" y="128" class="m" font-size="11" fill="#8b949e">Total contributions</text></g>
 <g class="f" style="animation-delay:0.36s"><rect x="540.8" y="64" width="157.6" height="78" rx="10" fill="#161b22" stroke="#30363d"/><text x="554.8" y="106" class="m" font-size="26" font-weight="800" fill="#ffa657">12</text><text x="554.8" y="128" class="m" font-size="11" fill="#8b949e">Active repos</text></g>
-<g class="f" style="animation-delay:0.48s"><rect x="710.4" y="64" width="157.6" height="78" rx="10" fill="#161b22" stroke="#30363d"/><text x="724.4" y="106" class="m" font-size="26" font-weight="800" fill="#f2cc60">25</text><text x="724.4" y="128" class="m" font-size="11" fill="#8b949e">Stars</text></g>
+<g class="f" style="animation-delay:0.48s"><rect x="710.4" y="64" width="157.6" height="78" rx="10" fill="#161b22" stroke="#30363d"/><text x="724.4" y="106" class="m" font-size="26" font-weight="800" fill="#f2cc60">26</text><text x="724.4" y="128" class="m" font-size="11" fill="#8b949e">Stars</text></g>
 <text x="32" y="174" class="m" font-size="13" fill="#8b949e">Languages (active repos, by code size)</text>
 <clipPath id="bar"><rect x="32" y="186" width="836" height="12" rx="6"/></clipPath><g clip-path="url(#bar)" class="g">
-<rect x="32.00" y="186" width="372.01" height="12" fill="#b07219"/>
-<rect x="403.51" y="186" width="211.90" height="12" fill="#dea584"/>
-<rect x="614.90" y="186" width="117.47" height="12" fill="#3572A5"/>
-<rect x="731.87" y="186" width="96.58" height="12" fill="#A97BFF"/>
-<rect x="827.95" y="186" width="29.34" height="12" fill="#5686a5"/>
-<rect x="856.78" y="186" width="6.12" height="12" fill="#89e051"/>
+<rect x="32.00" y="186" width="371.94" height="12" fill="#b07219"/>
+<rect x="403.44" y="186" width="212.01" height="12" fill="#dea584"/>
+<rect x="614.95" y="186" width="117.45" height="12" fill="#3572A5"/>
+<rect x="731.90" y="186" width="96.56" height="12" fill="#A97BFF"/>
+<rect x="827.95" y="186" width="29.33" height="12" fill="#5686a5"/>
+<rect x="856.79" y="186" width="6.12" height="12" fill="#89e051"/>
 <rect x="862.41" y="186" width="3.56" height="12" fill="#555555"/>
 <rect x="865.47" y="186" width="2.34" height="12" fill="#00ADD8"/>
 <rect x="867.31" y="186" width="1.19" height="12" fill="#6e7681"/>
